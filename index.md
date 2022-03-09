@@ -1,18 +1,22 @@
 ## Welcome to Simply Thesis Institute
 
-You can use the [editor on GitHub](https://github.com/simplythesis/index/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+POWERFUL SOLUTIONS TO HELP YOU MANAGE YOUR INTERESTS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### We've got what you need!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our goal at Simply Thesis Institute is to provide effective solutions designed to boost your business, be it a small or large organization.​Our consultants design solutions tailored specifically to the needs of your business in order to ensure you achieve your dreams of success. We are the experts at helping our customers take their businesses to the next level! ​Check out our custom solutions and services.
 
-```markdown
-Syntax highlighted code block
+# The World Can be Yours
+## Your Success
+Our consulting services focus on our clients' most critical issues and opportunities.​We work on strategy, marketing and technology across all industries and geographies. We bring deep, functional expertise, but are known for our fun approach to work. We love what we do: developing successful outcomes for our clients!
+## Strategies
+We at Simply Thesis Institute are expert strategists, helping our clients with their most complex strategic challenges and build tailored solutions to help them achieve sustained growth.​We begin by helping our clients choose where to focus in order to get the most effective boost to their business. We aim to find the quickest route to success.
+## Clients
+We have worked with a variety of businesses varying from non-profit to corporate to retail. Although our clients have ranged in size to large corporations, our niche is helping small and medium sized clients.
+## Services
+You have an idea about where you want your business to go? Need some help getting there? We are the experts at helping our customers take their businesses to the next level. We look forward to transforming your business.
 
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
